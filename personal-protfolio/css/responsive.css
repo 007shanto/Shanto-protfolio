@@ -1,0 +1,721 @@
+@media (min-width :320px) and (max-width:575px){
+     
+    .navbar-toggler-icon i{
+        color: #fff;
+    }
+    .navbar-toggler:focus {
+        box-shadow: 0 0 0 0;
+    }
+    nav ul li{
+        background: transparent;
+        text-align: center;
+    }
+    nav ul li a::after{
+        display: none;
+    }
+    nav ul li a:hover{
+        background: #01010D ;
+        color: #fff !important;
+    }
+    nav ul li .active::after{
+        display: none;
+    }
+    nav ul li .active{
+        color: #fff !important;
+        background:transparent !important;
+    }
+    nav ul li .active:hover{
+        color: #fff !important;
+    }
+
+
+
+
+    
+
+    #banner-part {
+        padding: 320px 0;
+    }
+    #banner-part .anim-txt .intro h1 {
+        font-size: 24px;
+    }
+    #banner-part .anim-txt .intro {
+        color: white;
+        position: absolute;
+        top: 350px;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 100%;
+        text-align: center;
+    }
+    #banner-part h2 {
+        font-size: 50px;
+        width: 100%;
+        text-align: center;
+    }
+    #banner-part .banner-button {
+        top: 500px;
+    }
+    #banner-part .scroll {
+        top: 550px;
+    }
+
+
+     
+
+
+
+    #about-part .about-overlay {
+        padding: 30px 0;
+    }
+    #about-part .left h2 {
+        font-size: 26px;
+        text-align: center;
+    }
+    #about-part .left p {
+        width: auto;
+    }
+    #about-part .a-social-link {
+        text-align: center;
+    }
+    #about-part .a-social-link ul li{
+        margin: 0 5px;
+    }
+    #about-part .left .about-button {
+        left: 50%;
+        transform: translateX(-50%);
+        top: 105%;
+    }
+
+    #about-part .right h3 {
+        margin-top: 70px;
+        text-align: center;
+    }
+    #services-part .services-main .services1 .services-icon::before {
+        width: 0;
+        height: 0;
+    }
+    #services-part .services-main .services1 .services-icon::after {
+        width: 0;
+        height: 0;
+    }
+    #services-part .services-main .services2 .services-icon::before {
+        width: 0;
+        height: 0;
+    }
+    #services-part .services-main .services2 .services-icon::after {
+        width: 0;
+        height: 0;
+    }
+    #services-part .services-main .services3 .services-icon::before {
+        width: 0;
+        height: 0;
+    }
+    #services-part .services-main .services4 .services-icon::after {
+        width: 0;
+        height: 0;
+    }
+    #services-part .services-main .services5 .services-icon::after {
+        width: 0;
+        height: 0;
+    }
+
+
+
+   
+    #price-part .price-overlay {
+        padding: 20px 0;
+    }
+    #price-part .price-main {
+        margin-top: 10px;
+    }
+
+
+
+    #education-part .education-main {
+        border-bottom: none;
+    }
+    #education-part .education-main p {
+        margin-bottom: -34px;
+    }
+    #education-part .education-overlay {
+        padding: 30px 0;
+    }
+    #education-part .education-main h3::after {
+        width: 0;
+        height: 0;
+    }
+    #education-part .education-main h3 {
+        margin-top: 5px;
+    }
+    #education-part .education-main p {
+        font-size: 19px;
+
+    }
+
+
+    
+
+
+    #faq-part .faq-overlay {
+        padding: 30px 0;
+    }
+
+
+
+
+    #contact-part .contact-overlay {
+        padding: 30px 0;
+    }
+    #contact-part .contact-main .left .left-all {
+        margin-top: -80px;
+    }
+    #contact-part .contact-main .left .email h5 {
+        left: 70px;
+    }
+    #contact-part .contact-main .left .contact-icon ul li {
+        margin: 0px 7px;
+    }
+    #contact-part .contact-main .right .button {
+        text-align: center;
+    }
+    #contact-part .contact-main .right .button button {
+        width: 55%;
+    }
+    /* ===================================== */
+}
+
+
+
+@media (min-width :576px) and (max-width:767px){
+
+    .navbar-toggler-icon i{
+        color: #fff;
+    }
+    .navbar-toggler:focus {
+        box-shadow: 0 0 0 0;
+    }
+    nav ul li{
+        background: transparent;
+        text-align: center;
+    }
+    nav ul li a::after{
+        display: none;
+    }
+    nav ul li a:hover{
+        background: #01010D ;
+        color: #fff !important;
+    }
+    nav ul li .active::after{
+        display: none;
+    }
+    nav ul li .active{
+        color: #fff !important;
+        background:transparent !important;
+    }
+    nav ul li .active:hover{
+        color: #fff !important;
+    }
+
+
+
+
+
+
+    #banner-part {
+        padding: 320px 0;
+    }
+    #banner-part .anim-txt .intro h1 {
+        font-size: 24px;
+    }
+    #banner-part .anim-txt .intro {
+        color: white;
+        position: absolute;
+        top: 350px;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 100%;
+        text-align: center;
+    }
+    #banner-part h2 {
+        font-size: 50px;
+        width: 100%;
+        text-align: center;
+    }
+    #banner-part .banner-button {
+        top: 500px;
+    }
+    #banner-part .scroll {
+        top: 550px;
+    }
+
+
+
+    
+
+
+    
+    #about-part .about-overlay {
+        padding: 30px 0;
+    }
+    #about-part .left h2 {
+        font-size: 26px;
+        text-align: center;
+    }
+    #about-part .left p {
+        width: auto;
+    }
+    #about-part .a-social-link {
+        text-align: center;
+    }
+    #about-part .a-social-link ul li{
+        margin: 0 5px;
+    }
+    #about-part .left .about-button {
+        left: 50%;
+        transform: translateX(-50%);
+        top: 105%;
+    }
+
+    #about-part .right h3 {
+        margin-top: 70px;
+        text-align: center;
+    }
+    #services-part .services-main .services1 .services-icon::before {
+        width: 0;
+        height: 0;
+    }
+    #services-part .services-main .services1 .services-icon::after {
+        width: 0;
+        height: 0;
+    }
+    #services-part .services-main .services2 .services-icon::before {
+        width: 0;
+        height: 0;
+    }
+    #services-part .services-main .services2 .services-icon::after {
+        width: 0;
+        height: 0;
+    }
+    #services-part .services-main .services3 .services-icon::before {
+        width: 0;
+        height: 0;
+    }
+    #services-part .services-main .services4 .services-icon::after {
+        width: 0;
+        height: 0;
+    }
+    #services-part .services-main .services5 .services-icon::after {
+        width: 0;
+        height: 0;
+    }
+
+
+    #price-part .price-overlay {
+        padding: 20px 0;
+    }
+    #price-part .price-main {
+        margin-top: 10px;
+    }
+
+
+
+
+
+
+
+
+
+
+    
+
+    #education-part .education-main {
+        border-bottom: none;
+    }
+    #education-part .education-main p {
+        margin-bottom: -34px;
+    }
+    #education-part .education-overlay {
+        padding: 30px 0;
+    }
+    #education-part .education-main h3::after {
+        width: 0;
+        height: 0;
+    }
+    #education-part .education-main h3 {
+        margin-top: 5px;
+    }
+    #education-part .education-main p {
+        font-size: 19px;
+
+    }
+
+
+    
+
+
+    #faq-part .faq-overlay {
+        padding: 30px 0;
+    }
+
+
+
+
+    #contact-part .contact-overlay {
+        padding: 30px 0;
+    }
+    #contact-part .contact-main .left .left-all {
+        margin-top: -80px;
+    }
+    #contact-part .contact-main .left .email h5 {
+        left: 70px;
+    }
+    #contact-part .contact-main .left .contact-icon ul li {
+        margin: 0px 7px;
+    }
+    #contact-part .contact-main .right .button {
+        text-align: center;
+    }
+    #contact-part .contact-main .right .button button {
+        width: 55%;
+    }
+
+    /* ====================================== */
+}
+
+
+
+@media (min-width :768px) and (max-width:991px){
+
+    .navbar-toggler-icon i{
+        color: #fff;
+    }
+    .navbar-toggler:focus {
+        box-shadow: 0 0 0 0;
+    }
+    nav ul li{
+        background: transparent;
+        text-align: center;
+    }
+    nav ul li a::after{
+        display: none;
+    }
+    nav ul li a:hover{
+        background: #01010D ;
+        color: #fff !important;
+    }
+    nav ul li .active::after{
+        display: none;
+    }
+    nav ul li .active{
+        color: #fff !important;
+        background:transparent !important;
+    }
+    nav ul li .active:hover{
+        color: #fff !important;
+    }
+
+
+
+
+
+
+    #banner-part {
+        padding: 320px 0;
+    }
+    #banner-part .anim-txt .intro h1 {
+        font-size: 24px;
+    }
+    #banner-part .anim-txt .intro {
+        color: white;
+        position: absolute;
+        top: 350px;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 100%;
+        text-align: center;
+    }
+    #banner-part h2 {
+        font-size: 50px;
+        width: 100%;
+        text-align: center;
+    }
+    #banner-part .banner-button {
+        top: 500px;
+    }
+    #banner-part .scroll {
+        top: 550px;
+    }
+
+
+
+    
+
+
+    
+    #about-part .about-overlay {
+        padding: 30px 0;
+    }
+    #about-part .left h2 {
+        font-size: 26px;
+        text-align: center;
+    }
+    #about-part .left p {
+        width: auto;
+    }
+    #about-part .a-social-link {
+        text-align: center;
+    }
+    #about-part .a-social-link ul li{
+        margin: 0 5px;
+    }
+    #about-part .left .about-button {
+        left: 50%;
+        transform: translateX(-50%);
+        top: 105%;
+    }
+
+    #about-part .right h3 {
+        margin-top: 70px;
+        text-align: center;
+    }
+    #services-part .services-main .services1 .services-icon::before {
+        width: 0;
+        height: 0;
+    }
+    #services-part .services-main .services1 .services-icon::after {
+        width: 0;
+        height: 0;
+    }
+    #services-part .services-main .services2 .services-icon::before {
+        width: 0;
+        height: 0;
+    }
+    #services-part .services-main .services2 .services-icon::after {
+        width: 0;
+        height: 0;
+    }
+    #services-part .services-main .services3 .services-icon::before {
+        width: 0;
+        height: 0;
+    }
+    #services-part .services-main .services4 .services-icon::after {
+        width: 0;
+        height: 0;
+    }
+    #services-part .services-main .services5 .services-icon::after {
+        width: 0;
+        height: 0;
+    }
+
+
+    #price-part .price-overlay {
+        padding: 20px 0;
+    }
+    #price-part .price-main {
+        margin-top: 10px;
+    }
+
+
+
+
+
+
+
+
+
+
+    
+
+    #education-part .education-main {
+        border-bottom: none;
+    }
+    #education-part .education-main p {
+        margin-bottom: -34px;
+    }
+    #education-part .education-overlay {
+        padding: 30px 0;
+    }
+    #education-part .education-main h3::after {
+        width: 0;
+        height: 0;
+    }
+    #education-part .education-main h3 {
+        margin-top: 5px;
+    }
+    #education-part .education-main p {
+        font-size: 19px;
+
+    }
+
+
+    
+
+
+    #faq-part .faq-overlay {
+        padding: 30px 0;
+    }
+
+
+
+
+    #contact-part .contact-overlay {
+        padding: 30px 0;
+    }
+    #contact-part .contact-main .left .left-all {
+        margin-top: -80px;
+    }
+    #contact-part .contact-main .left .email h5 {
+        left: 70px;
+    }
+    #contact-part .contact-main .left .contact-icon ul li {
+        margin: 0px 7px;
+    }
+    #contact-part .contact-main .right .button {
+        text-align: center;
+    }
+    #contact-part .contact-main .right .button button {
+        width: 55%;
+    }
+
+    /* ====================================== */
+}
+
+
+
+@media (min-width :992px) and (max-width:1199px){
+
+    .navbar-toggler-icon i{
+        color: #fff;
+    }
+    .navbar-toggler:focus {
+        box-shadow: 0 0 0 0;
+    }
+    nav ul li{
+        background: transparent;
+        text-align: center;
+    }
+    
+
+
+
+
+
+
+    #banner-part {
+        padding: 320px 0;
+    }
+    #banner-part .anim-txt .intro h1 {
+        font-size: 24px;
+    }
+    #banner-part .anim-txt .intro {
+        color: white;
+        position: absolute;
+        top: 350px;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 100%;
+        text-align: center;
+    }
+    #banner-part h2 {
+        font-size: 50px;
+        width: 100%;
+        text-align: center;
+    }
+    #banner-part .banner-button {
+        top: 500px;
+    }
+    #banner-part .scroll {
+        top: 550px;
+    }
+
+
+
+    
+
+
+    #price-part .price-overlay {
+        padding: 20px 0;
+    }
+    #price-part .price-main {
+        margin-top: 10px;
+    }
+    #price-part .price-main .price-services ul li {
+        font-size: 15px;
+    
+    }
+
+
+
+
+
+
+
+
+
+    
+
+    #education-part .education-main {
+        border-bottom: none;
+    }
+    #education-part .education-main p {
+        margin-bottom: -34px;
+    }
+    #education-part .education-overlay {
+        padding: 30px 0;
+    }
+    #education-part .education-main h3::after {
+        width: 0;
+        height: 0;
+    }
+    #education-part .education-main h3 {
+        margin-top: 5px;
+    }
+    #education-part .education-main p {
+        font-size: 19px;
+
+    }
+
+
+    
+
+
+    #faq-part .faq-overlay {
+        padding: 30px 0;
+    }
+
+
+
+
+    #contact-part .contact-overlay {
+        padding: 30px 0;
+    }
+    #contact-part .contact-main .left .left-all {
+        margin-top: 60px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+    #price-part .price-main .price-services ul li {
+        font-family: 'Oswald', sans-serif;
+        color: #fff;
+        font-size: 18px;
+        margin-top: 20px;
+    }
+    /* ====================================== */
+}
+
+
+@media (min-width :1200px) and (max-width:1399px){
+    #price-part .price-main .price-services ul li {
+        font-size: 18px;
+    }
+}
